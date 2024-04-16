@@ -1,5 +1,5 @@
 # Ex04 Places Around Me
-## Date: 02/04/2024
+## Date: 16/04/2024
 
 ## AIM
 To develop a website to display details about the places around my house.
@@ -132,12 +132,18 @@ Execute the programs and publish them.
 
 
 ## OUTPUT
-![alt text](<raj/Screenshot 2024-04-02 210412.png>)
-![alt text](<raj/Screenshot 2024-04-02 210510.png>)
-![alt text](<raj/Screenshot 2024-04-02 210611.png>)
-![alt text](<raj/Screenshot 2024-04-02 210620.png>)
-![alt text](<raj/Screenshot 2024-04-02 210716.png>)
-![alt text](<raj/Screenshot 2024-04-02 210724.png>)
+![Screenshot 2024-04-02 210412](https://github.com/Udayanithi/NearMe/assets/117813171/16ff8bc9-f760-45ef-bc63-04e332507b9c)
+![Screenshot 2024-04-02 210724](https://github.com/Udayanithi/NearMe/assets/117813171/dbadda72-3d3f-40c9-99dd-1def38fcf988)
+![Screenshot 2024-04-02 210716](https://github.com/Udayanithi/NearMe/assets/117813171/d2129e17-7b8b-47d8-8045-970122b991e9)
+![Screenshot 2024-04-02 210620](https://github.com/Udayanithi/NearMe/assets/117813171/79a1e0e7-a49b-4817-8ac4-70d66fa9e74a)
+![Screenshot 2024-04-02 210611](https://github.com/Udayanithi/NearMe/assets/117813171/1a7f7a15-f22d-4863-a6a7-cb62f8a11388)
+![Screenshot 2024-04-02 210510](https://github.com/Udayanithi/NearMe/assets/117813171/4b0cf8dd-bdec-4713-ab6d-16dbe1b0eb55)
+
+
+
+
+
+
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
