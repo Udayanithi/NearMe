@@ -1,5 +1,5 @@
 # Ex04 Places Around Me
-## Date: 16/04/2024
+## Date: 23/05/2024
 
 ## AIM
 To develop a website to display details about the places around my house.
@@ -31,7 +31,7 @@ Execute the programs and publish them.
 <html>
     <head>
         <h2><center>Vellore</center></h2>
-        <h3><center>Karthickraja-212221040073</center></h3>
+        <h3><center>UDAYANITHI-212221220056</center></h3>
     <hr>
     </head>
     <body bgcolor="brown">
